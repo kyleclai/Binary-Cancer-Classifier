@@ -1,4 +1,13 @@
-Folder Structure
+To download the dataset go to this link:
+https://kaggle.com/competitions/histopathologic-cancer-detection
+
+Next make or log in to a Kaggle Account, go to the data tab, then click the download all button on the right side of the page, and finally unzip and move the dataset files into the project directory,
+
+View folder structure above to place the data files correctly
+
+Folder Structure 
+================
+```
 .
 ├── histopathological cancer prediction                          # Documentation files (alternatively `doc`)
 │   ├── data                                                     # data files (testing and training)
@@ -18,3 +27,4 @@ Folder Structure
 │   ├── requirements.txt                                          # Packages/Lib 
 │   └── ...                                                       # etc.
 └── .gitignore
+```
